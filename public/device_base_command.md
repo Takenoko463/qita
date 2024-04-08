@@ -4,7 +4,7 @@ tags:
   - Ruby
   - Rails
 private: true
-updated_at: '2024-04-09T00:04:24+09:00'
+updated_at: '2024-04-09T00:07:32+09:00'
 id: f30ca8cf1579301ac4dd
 organization_url_name: null
 slide: false
