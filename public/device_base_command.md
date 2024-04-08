@@ -1,11 +1,11 @@
 ---
 title: device_base_command
 tags:
-  - 'ruby'
-  - 'rails'
+  - Ruby
+  - Rails
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-04-08T23:58:38+09:00'
+id: f30ca8cf1579301ac4dd
 organization_url_name: null
 slide: false
 ignorePublish: false
