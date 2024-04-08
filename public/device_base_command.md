@@ -1,10 +1,10 @@
 ---
-title: device_base_command
+title: devise導入における基本コマンド
 tags:
   - Ruby
   - Rails
 private: false
-updated_at: '2024-04-09T00:12:06+09:00'
+updated_at: '2024-04-09T00:18:55+09:00'
 id: f30ca8cf1579301ac4dd
 organization_url_name: null
 slide: false
