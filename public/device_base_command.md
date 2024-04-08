@@ -4,7 +4,7 @@ tags:
   - Ruby
   - Rails
 private: false
-updated_at: '2024-04-09T00:22:17+09:00'
+updated_at: '2024-04-09T00:24:04+09:00'
 id: f30ca8cf1579301ac4dd
 organization_url_name: null
 slide: false
@@ -49,13 +49,13 @@ rails s
 
 ### viewの作成
 ```
-rails g devise:views users
+rails g devise:views
 ```
 
 ### controllerの作成[^2]
 [^2]:私はまだ使ったことはない。googleアカウントでのログイン機能実装で使う予定。
 
 ```
-rails g devise:controller
+rails g devise:controllers users
 ```
 
