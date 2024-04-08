@@ -4,7 +4,7 @@ tags:
   - Ruby
   - Rails
 private: true
-updated_at: '2024-04-08T23:58:38+09:00'
+updated_at: '2024-04-09T00:04:24+09:00'
 id: f30ca8cf1579301ac4dd
 organization_url_name: null
 slide: false
@@ -37,7 +37,7 @@ rails g devise:install
 ```
 rails g devise user
 ```
-### userテーブルの作成
+### usersテーブルの作成
 マイグレーションの実行
 ```
 rails db:migrate
