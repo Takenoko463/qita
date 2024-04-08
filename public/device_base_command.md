@@ -3,7 +3,7 @@ title: device_base_command
 tags:
   - Ruby
   - Rails
-private: true
+private: false
 updated_at: '2024-04-09T00:07:32+09:00'
 id: f30ca8cf1579301ac4dd
 organization_url_name: null
