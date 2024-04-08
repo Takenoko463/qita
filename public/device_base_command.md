@@ -4,7 +4,7 @@ tags:
   - Ruby
   - Rails
 private: false
-updated_at: '2024-04-09T00:18:55+09:00'
+updated_at: '2024-04-09T00:22:17+09:00'
 id: f30ca8cf1579301ac4dd
 organization_url_name: null
 slide: false
@@ -49,7 +49,7 @@ rails s
 
 ### viewの作成
 ```
-rails g devise:views
+rails g devise:views users
 ```
 
 ### controllerの作成[^2]
