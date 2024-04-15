@@ -2,9 +2,10 @@
 title: Ruby On RailsにおけるjQuery初期設定
 tags:
   - Ruby
+  - JavaScript
   - Rails
 private: false
-updated_at: '2024-04-15T13:02:20+09:00'
+updated_at: '2024-04-15T13:09:46+09:00'
 id: 1d3d79fc94dd97d2d370
 organization_url_name: null
 slide: false
