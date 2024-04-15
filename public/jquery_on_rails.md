@@ -5,7 +5,7 @@ tags:
   - JavaScript
   - Rails
 private: false
-updated_at: '2024-04-15T13:09:46+09:00'
+updated_at: '2024-04-15T15:12:22+09:00'
 id: 1d3d79fc94dd97d2d370
 organization_url_name: null
 slide: false
@@ -13,7 +13,8 @@ ignorePublish: false
 ---
 # Ruby On RailsにおけるjQuery初期設定
 ## 背景説明
-現在のrailsに即した日本語版jQuery導入方法説明を見つけられなかったので、ここに記します。ムダな記述が多い気がするので訂正があればコメントをください。[^1]
+現在のrailsに即したjQuery導入説明です。私のような初学者にも伝わる日本語での説明を見つけられませんでした。英語での説明はあったのでこちらにメモしておきます。  
+ムダな記述が多いです。記述を省ける箇所や訂正箇所をコメントで教えてください。[^1]
 
 [^1]:[参考文献](https://stackoverflow.com/questions/70921378/how-to-install-jquery-and-bootstrap-in-rails-7-app-using-esbuild-without-webpac)
 
