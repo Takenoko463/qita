@@ -4,7 +4,7 @@ tags:
   - Ruby
   - Rails
 private: false
-updated_at: '2024-04-15T12:58:32+09:00'
+updated_at: '2024-04-15T13:02:20+09:00'
 id: 1d3d79fc94dd97d2d370
 organization_url_name: null
 slide: false
@@ -36,7 +36,11 @@ Rails.application.routes.draw do
   root to: "tests#index"
 end
 ```
-
+### app/views/tests/index.html.erbへの書き込み
+```html
+<h1>Tests#index</h1>
+<p id="hoge">赤色になるよ</p>
+```
 ## jQuery導入
 ここからが**本題**
 ### Gemfileへの追加
